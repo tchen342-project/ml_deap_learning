@@ -18,7 +18,7 @@ This project trains a Multi-Layer Perceptron (MLP) on the FashionMNIST dataset u
 
 This project implements a Convolutional Neural Network (CNN) using the AlexNet architecture to classify CIFAR-10 images.
 
-### Workflow
+### Key Highlights(Workflow)
 
 - **Data Preprocessing:** Applies normalization and augmentation using computed mean and standard deviation values.
 - **Dataset Handling:** Loads CIFAR-10 dataset, applies transformations, and creates efficient data loaders for batch processing.
