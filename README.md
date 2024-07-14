@@ -1,6 +1,4 @@
-# Project Summary
-
-## Task 1: MLP for FashionMNIST
+## 1: MLP for FashionMNIST
 
 ### Overview
 
@@ -14,7 +12,7 @@ This project trains a Multi-Layer Perceptron (MLP) on the FashionMNIST dataset u
 - **Training and Validation:** Training and validation loss, along with accuracy, are plotted to visualize model performance and convergence.
 - **Implementation Details:** Includes data loading, model definition, training loop implementation, and visualization using matplotlib.
 
-## Task 2: CIFAR-10 CNN with AlexNet Architecture
+## 2: CIFAR-10 CNN with AlexNet Architecture
 
 ### Overview
 
